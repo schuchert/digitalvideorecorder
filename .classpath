@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="libs/joda-time-1.6.jar" sourcepath="/Users/schuchert/Desktop/joda-time-1.6-src/src/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ReflectionUtil"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/QueryResultBuilder"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
